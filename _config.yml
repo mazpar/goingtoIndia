@@ -1,0 +1,27 @@
+title: Lets Go To India
+author: Parichay Mazumdar and Imke Ditters
+email: imke_parichay@protonmail.com
+description: >
+  Welcome to the info page for your trip to India for our wedding.
+  # More details to be added
+
+minima:
+  social_links:
+    github: mazpar 
+    linkedin: parichaymazumdar
+
+
+url: "https://letsgotoIndia.com"
+
+paginate: true
+paginate_path: "/blog/page:num/"
+show_excerpts: true
+
+markdown: kramdown
+usemathjax: true
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate

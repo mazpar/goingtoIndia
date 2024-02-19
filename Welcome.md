@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Getting to India
 permalink: /about/
 ---
   Testing content

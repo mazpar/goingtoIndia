@@ -3,15 +3,8 @@ author: Parichay Mazumdar and Imke Ditters
 email: imke_parichay@protonmail.com
 description: >
   Welcome to the info page for your trip to India for our wedding.
-  # More details to be added
 
-minima:
-  social_links:
-    github: mazpar 
-    linkedin: parichaymazumdar
-
-
-url: "https://letsgotoIndia.com"
+# url: "https://letsgotoIndia.com"
 
 paginate: true
 paginate_path: "/blog/page:num/"

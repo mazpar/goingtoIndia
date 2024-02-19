@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Delhi : Tips and Tricks
+title: Delhi - Tips and Tricks
 permalink: /delhi/
 ---
   Testing content

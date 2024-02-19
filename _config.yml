@@ -4,7 +4,7 @@ email: imke_parichay@protonmail.com
 description: >
   Welcome to the info page for your trip to India for our wedding.
 
-# url: "https://letsgotoIndia.com"
+url: "https://imkeandparryinindia.com"
 
 paginate: true
 paginate_path: "/blog/page:num/"

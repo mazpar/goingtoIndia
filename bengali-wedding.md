@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bengali Wedding Guide
 permalink: /bengali_wedding/
 ---

@@ -17,7 +17,7 @@ We recommend arriving at Delhi at least 3 days before the wedding to get acclima
 Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location.
 
 ### What to Pack
-- **Dress for Celebration**: Pack outfits for multiple wedding events, considering the elegance and tradition of Indian weddings. Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi - Tips and Tricks](delhi.md) page to check out recommendations.
+- **Dress for Celebration**: Pack outfits for multiple wedding events, considering the elegance and tradition of Indian weddings. Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi - Tips and Tricks](https://mazpar.github.io/goingtoIndia/delhi/) page to check out recommendations.
 - **Essentials**: Remember to bring personal medications, travel adaptors for India (types C, D, and M), and any other essentials for international travel.
 
 ## Stay Updated

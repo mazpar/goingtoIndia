@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Delhi - Tips 
+title: Delhi-Tips 
 permalink: /delhi/
 ---
 

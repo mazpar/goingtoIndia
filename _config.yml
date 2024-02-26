@@ -16,3 +16,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+
+exclude:
+  - drafts/

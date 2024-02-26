@@ -1,3 +1,9 @@
+--
+layout: page
+title: Travel Advice
+permalink: /travel_advice/
+---
+
 # Health and Safety
 
 - **Vaccinations**: Ensure you are up-to-date on routine vaccines. Additionally, vaccines for Hepatitis A and Typhoid are recommended due to the risk of contaminated food and water. Consider vaccines for Hepatitis B, Japanese Encephalitis, and Rabies, depending on your itinerary.

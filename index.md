@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: default
+title: Home
+permalink: /home/
 ---
 
 Hello dear friends and family,

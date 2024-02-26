@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Delhi - Tips and Tricks
+layout: default
+title: Delhi - Tips 
 permalink: /delhi/
 ---
 

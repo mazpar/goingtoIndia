@@ -19,10 +19,4 @@ Accommodations have been arranged at the wedding venue itself between 16-11 and 
 - **Dress for Celebration**: Pack outfits for multiple wedding events, considering the elegance and tradition of Indian weddings. Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi - Tips and Tricks](https://mazpar.github.io/goingtoIndia/delhi/) page to check out recommendations.
 - **Essentials**: Remember to bring personal medications, travel adaptors for India (types C, D, and M), and any other essentials for international travel.
 
-## Stay Updated
-This page will be your go-to for any updates leading up to the wedding, including any changes to the schedule, tips for your stay, and insights into the local area.
-
-For any immediate questions or additional information, please feel free to contact us directly at [Our wedding email address](mailto:imke_parichay@protonmail.com).
-
-We are beyond excited to have you with us in India, sharing in the joy and love of our special days. See you soon!
 

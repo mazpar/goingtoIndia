@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Hello dear friends and family,

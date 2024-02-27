@@ -2,7 +2,7 @@
 layout: home
 title: Home
 image:
-  background: 
+  background: img/PXL_20230913_035201957.jpg
 ---
 
   

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bengali Wedding Guide
-permalink: /bengali_wedding/
+permalink: /bengali_wedding.html
 ---
 # Welcome to a Bengali Wedding: A Guide for Western Guests
 

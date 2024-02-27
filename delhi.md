@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delhi-Tips 
-permalink: /delhi/
+permalink: /delhi.html
 ---
 
 # Welcome to Delhi!

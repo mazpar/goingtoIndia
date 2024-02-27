@@ -2,7 +2,7 @@
 layout: home
 title: Home
 image:
-  background: img/PXL_20230913_035201957.jpg
+  background: "img/PXL_20230913_035201957.jpg"
 ---
 
 <img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" height="400" style="vertical-align:middle;margin:0px 200px">

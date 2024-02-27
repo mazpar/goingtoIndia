@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 Hello dear friends and family,

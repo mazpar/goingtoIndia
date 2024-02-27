@@ -1,9 +1,10 @@
 ---
 layout: home
 title: Home
+image:
+  background: 
 ---
 
-[test image]('img/PXL_20230913_035201957.jpg')
   
 Hello dear friends and family,
 

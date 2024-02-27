@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Travel Advice
-permalink: /travel_advice/
+permalink: /travel_advice.html
 ---
 
 # Health and Safety

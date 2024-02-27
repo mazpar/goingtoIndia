@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Events Calendar
-permalink : /events/
+permalink : /events.html
 ---
 
 # Events Calendar

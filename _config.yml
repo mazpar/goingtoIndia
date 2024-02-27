@@ -11,8 +11,8 @@ show_excerpts: true
 markdown: kramdown
 usemathjax: true
 
-theme: minima
-#theme: jekyll-theme-easy-wedding
+#theme: minima
+theme: jekyll-theme-easy-wedding
 
 plugins:
   - jekyll-feed

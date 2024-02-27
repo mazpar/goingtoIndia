@@ -5,7 +5,7 @@ image:
   background: "img/PXL_20230913_035201957.jpg"
 ---
 
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" height="200" style="vertical-align:middle;margin:0px 200px">
+<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" height="200" style="vertical-align:middle;margin:0px 20px">
 
 Hello dear friends and family,
 

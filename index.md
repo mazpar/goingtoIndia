@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<div style="background-image: url('img/your-image-name.png'); background-size: cover; height: 100vh;">
+<div style="background-image: url('img/PXL_20230913_035201957.jpg'); background-size: cover; height: 100vh;">
   <!-- Content on top of the background image -->
 </div>
 

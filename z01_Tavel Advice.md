@@ -25,14 +25,14 @@ Accommodations have been arranged at the wedding venue itself between 16-11 and 
 - **Vaccinations**: Ensure you are up-to-date on routine vaccines. Consult your General Practitioner for advice. Checking the official website or contacting the Indian embassy or consulate in your country can provide you with the most current visa and health-related entry requirements for India.
 - **Water Safety**: Drink only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
 - **Food Safety**: Eat well-cooked meals and avoid street food that doesn't look fresh or has been exposed to flies. Fruits and vegetables should be washed and peeled.
-- **Mosquito-borne diseases**: Use mosquito repellent and wear long sleeves and pants to protect against diseases like Dengue, Malaria, and Zika.
+- **Bug Repellants**: Bring repellents to protect against insect and musquite bites.
 - **Healthcare**: Carry a basic travel health kit and any personal medications. Note that medical facilities may vary greatly in quality, especially outside major cities.
 
 # Local Customs and Etiquette
 
 - **Dress Modestly**: Dress modestly, especially when visiting religious sites. Women should consider covering their legs and shoulders.
 - **Remove Your Shoes**: Before entering someone's home or a place of worship.
-- **Greetings**: The traditional Indian greeting is the "Namaste," performed by pressing your palms together near your heart and bowing slightly.
+- **Greetings**: The traditional Indian greeting is the "Namaste," performed by pressing your palms together near your heart and bowing slightly. However in big cities people are very much accustomed to the western way of living.
 - **Bargaining**: Bargaining is common in markets but do it respectfully.
 - **Public Displays of Affection**: Be cautious with public displays of affection, as they may not be well-received, especially in rural areas.
 
@@ -46,6 +46,6 @@ Accommodations have been arranged at the wedding venue itself between 16-11 and 
 
 - **Currency**: The Indian Rupee (INR) is the currency of India. Inform your bank of your travel plans to avoid any issues with card transactions.
 - **Electrical Plugs**: India uses 230V, 50Hz electricity, and plug types C, D, and M. Bring a universal adapter.
-- **Language**: Hindi is most widely spoken, but English is also spoken in big cities, especially in tourist areas and among younger people.
+- **Language**: Hindi is most widely spoken. English is mostly spoken in big cities, in tourist areas amongst the highly educated people.
 - **Cultural Sensitivity**: Be respectful of India's diverse religious and cultural practices. Avoid discussing sensitive topics such as politics and religion.
 - **Safety**: Be vigilant in crowded places and avoid traveling alone at night. Scams targeting tourists can be common, so stay cautious and informed.

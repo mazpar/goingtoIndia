@@ -2,7 +2,7 @@
 layout: page
 title: Travel Advice
 permalink: /travel_advice.html
-background_image: "img/PXL_20230913_035201957.jpg"
+background_image: "img/Template Wedding Invitations.svg"
 
 ---
 

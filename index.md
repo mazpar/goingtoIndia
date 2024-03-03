@@ -7,7 +7,8 @@ background_image: "img/Template Wedding Invitations.svg"
 --------
 &nbsp;
 
-<div style="position: relative; z-index: 2; color: #000; padding: 1em;">
+
+## Home
 
 Hello dear friends and family,
 

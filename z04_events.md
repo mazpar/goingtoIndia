@@ -28,15 +28,13 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
 - **Description**: We will arrange pick up from this airport. Please notify us once you have booked your tickets to and from Raipur using [this Link](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing).
   
 
-### Event Name: Mehendi Ceremony
-- **Date**: 17-Nov
-- **Time**: Evening
-- **Location**: Hotel Silver Moon
-- **Description**: Join us for the Mehendi ceremony, where beautiful henna designs will adorn the hands and feet of the bride and other guests. Enjoy traditional music and snacks as part of the celebration.
+## Wedding Related Events
 
-## Wedding Day
+
 
 ** To be announced...**
+
+
 
 ## Post-Wedding Events
 

@@ -15,8 +15,8 @@ permalink: /travel_advice.html
 ## Important Travel Information
 Some important dates to plan your travel around is mentioned in the [Events Calendar page](https://mazpar.github.io/goingtoIndia/events.html)
 
-## Pre-Arranged Accommodation
-Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location.
+## Accommodation
+Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location. Any accomodation you require outside of these dates have to be arranged by yourself.
 
 ## What to Pack
 - **Dress for Celebration**:  Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi-Tips](https://mazpar.github.io/goingtoIndia/delhi.html) page to check out recommendations.

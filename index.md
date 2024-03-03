@@ -1,11 +1,8 @@
 ---
 layout: home
 title: Home
-image:
-  background: "img/PXL_20230913_035201957.jpg"
 ---
-
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" height = "150"/>
+<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" height="150" style="margin-right: 20px"/>
 
 Hello dear friends and family,
 

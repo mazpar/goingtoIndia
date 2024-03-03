@@ -13,7 +13,7 @@ title: Home
   width: 900px;  /* Set your desired width */
   height: 20000px; /* Set your desired height */
   background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
-  z-index: 2; /* Ensure it appears above the background image */
+  z-index: 0; /* Ensure it appears above the background image */
 }
   body::before {
     content: "";
@@ -25,7 +25,7 @@ title: Home
     background: url("img/PXL_20230913_035201957.jpg");
     background-size: cover;
     background-position: center;
-    opacity: 0.4;
+    opacity: 0.2;
     z-index: -1; 
   }
 

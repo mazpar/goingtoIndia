@@ -66,8 +66,6 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
   - **Malaria Prophylaxis:** India has a risk of malaria in certain areas. While there's no vaccine for malaria, preventive medication may be recommended, along with measures to avoid mosquito bites.
   - **Traveler’s Diarrhea:** While not a vaccine, travelers may consider carrying a course of antibiotics as a precautionary measure against severe traveler’s diarrhea, following a healthcare provider’s prescription.
 
-&nbsp;
-
 ### Health and Safety : Oter Considerations
 
 - **Water Safety**: Drink and brush your teeth with only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.

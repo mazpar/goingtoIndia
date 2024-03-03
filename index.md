@@ -4,6 +4,17 @@ title: Home
 ---
 
 <style>
+
+  body::after {
+  content: "";
+  position: absolute;
+  top: 50px;  /* Adjust as needed */
+  left: 50px; /* Adjust as needed */
+  width: 300px;  /* Set your desired width */
+  height: 300px; /* Set your desired height */
+  background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
+  z-index: 2; /* Ensure it appears above the background image */
+}
   body::before {
     content: "";
     position: absolute;
@@ -11,7 +22,7 @@ title: Home
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("img/PXL_20230913_035201957.jpg");
+    background: url("img/PXL_20230913_035201957.jpg");
     background-size: cover;
     background-position: center;
     opacity: 0.4;
@@ -20,6 +31,7 @@ title: Home
 
  body {
     position: relative;
+    min-height: 100vh;
  }
 </style>
 

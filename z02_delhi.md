@@ -32,6 +32,7 @@ We hope you enjoy your brief stay in this dynamic city before we all come togeth
 &nbsp;
 
 ***
+&nbsp;
 
-### Outfit Shopping on 13th November
+### **Outfit Shopping on 13th November**
 _After we have all the information from the guests attending, we will try to arrange for some shopping assistance for you to buy indian outfits for the wedding in Delhi. You'll receive an email from us when that happens._ 😉

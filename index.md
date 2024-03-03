@@ -21,11 +21,6 @@ title: Home
     position: relative;
     background-color: rgba(255, 255, 255, 1);
   }
-
-  h1, p {
-    color: #333;
-    text-shadow: 1px 1px 2px white;
-  }
 </style>
 
 <!--

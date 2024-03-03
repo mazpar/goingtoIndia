@@ -19,8 +19,8 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 &nbsp;
 &nbsp;
-
-
+  </div>
+</div>
 ## LATEST UPDATES
 
 **Keep an eye out here for any new updates to the webpage. Don't worry we will send you an email if any major updates were to happen. 😉**
@@ -37,9 +37,11 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 </div>
 
 &nbsp;
-&nbsp;
 
 -----------
+
+&nbsp;
+
 &nbsp;
 
 ### [💟 **RSVP to the Wedding HERE**](https://q630ndkzsds.typeform.com/to/XKYVjFL7)
@@ -48,8 +50,6 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 ### [➡️**UPDATE US HERE**⬅️](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing)about your arrival and departure times in Raipur.
 &nbsp;
-  </div>
-</div>
 
 
 

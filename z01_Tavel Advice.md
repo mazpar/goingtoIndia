@@ -15,6 +15,13 @@ permalink: /travel_advice.html
 
 &nbsp;
 
+### ⚠️ SAFETY RELATED INFORMATION ⚠️
+We understand that some travelers might have concerns about their journey to the wedding destination via Raipur in Chhattisgarh, India. [While Dutch and several other European embassies have categorized the entire state as a moderate risk zone](https://www.nederlandwereldwijd.nl/reisadvies/india), it’s essential to recognize that such advisories try to stay on the side of caution.
+
+It's crucial to note that the specific destination and the route to the wedding venue are situated outside the risk zones identified by the embassies. The South Asian Terrorism Portal (SATP), known for its detailed and accurate conflict mapping, [confirms that these areas are currently considered no / extremely low risk](https://www.satp.org/conflict-maps/india-maoistinsurgency).
+
+We want to assure you that we would never extend an invitation to our loved ones without ensuring their safety first. The well-being of our guests is paramount, and every measure has been taken to guarantee a secure and enjoyable visit. We are fully committed to hosting you in a safe environment and wouldn’t consider it otherwise.
+
 ### Important Travel Information
 Some important dates to plan your travel around is mentioned in the [Events Calendar page](https://mazpar.github.io/goingtoIndia/events.html)
 

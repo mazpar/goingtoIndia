@@ -18,5 +18,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+header_pages:
+  - 'z01_travel Advice.md'
+  - 'z01_bengali-wedding.md'
+
 exclude:
   - drafts/

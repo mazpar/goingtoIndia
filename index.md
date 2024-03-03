@@ -25,10 +25,10 @@ title: Home
   body::after {
     content: "";
     position: absolute;
-    top: 5%;  
-    left: 5%; 
-    width: 40%;  
-    height: 40%; 
+    top: 0%;  
+    left: 25%; 
+    width: 50%;  
+    height: 100%; 
     background-color: rgba(255, 255, 255, 0.6); 
     z-index: 1;
   }

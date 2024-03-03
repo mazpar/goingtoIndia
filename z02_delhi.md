@@ -2,6 +2,8 @@
 layout: page
 title: Delhi Tips 
 permalink: /delhi.html
+background_image: "img/Template Wedding Invitations.svg"
+
 ---
 
 ## Welcome to Delhi!

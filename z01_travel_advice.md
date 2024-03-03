@@ -109,6 +109,7 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
 
 - **Currency**: The Indian Rupee (INR) is the currency of India. Inform your bank of your travel outside of EU to avoid any issues with card transactions.
 - **Electrical Plugs**: India uses 230V, 50Hz electricity, and plug types C, D, and M. Bring a universal adapter.
+- **SIM Cards**: Prepaid SIM cards are available at the airport and many shops throughout Delhi. Ensure your phone is unlocked to use an Indian SIM card for local rates on calls and data.
 - **Language**: Hindi is most widely spoken. English is mostly spoken in big cities, in tourist areas amongst the highly educated people.
 - **Safety**: Be vigilant in crowded places and avoid traveling alone at night. Scams targeting tourists can be common, so stay cautious and informed.
 

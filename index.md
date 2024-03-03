@@ -11,7 +11,7 @@ title: Home
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("img/PXL_20230913_035201957.jpg");
+    background-image: url("img/PXL_20220227_155637276.jpg");
     background-size: cover;
     background-position: center;
     opacity: 0.5; /* Adjust based on how much you want to mute the background */

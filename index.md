@@ -8,7 +8,7 @@ background_image: "img/Template Wedding Invitations.svg"
 &nbsp;
 
 
-<img src="img/PXL_20230913_035201957.jpg" alt="imke_parry" width="100" style="float: left; margin-right: 20px" />
+<img src="img/PXL_20230913_035201957.jpg" alt="imke_parry" width="300" style="margin-right: 10px" />
 
 Hello dear friends and family,
 

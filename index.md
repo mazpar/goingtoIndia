@@ -17,9 +17,14 @@ title: Home
     z-index: -1; 
   }
 
-  body {
+ body {
     position: relative;
-    background-color: rgba(255, 255, 255, 0.5); 
+    background-color: rgba(255, 255, 255, 0.4); /* Light background color for overlay */
+  }
+
+  h1, p {
+    color: #333;
+    text-shadow: 1px 1px 2px white;
   }
 </style>
 

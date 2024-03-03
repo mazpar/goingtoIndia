@@ -5,7 +5,7 @@ image:
   background: "img/PXL_20230913_035201957.jpg"
 ---
 
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" height = "150" style="object-fit: contain"/>
+<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" height = "150"/>
 
 Hello dear friends and family,
 

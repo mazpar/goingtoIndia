@@ -4,8 +4,10 @@ title: Updates & Contact
 permalink: contact.html
 ---
 ***
-# [Update us here](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing) about your arrival and departure times in Raipur.
+### [Update us here](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing) about your arrival and departure times in Raipur.
 ***
 
-# Contact
+
+
+## Contact
 For any immediate questions or additional information, please feel free to contact us directly at [Our wedding email address](mailto:imke_parichay@protonmail.com).

@@ -14,13 +14,12 @@ title: Home
     background-image: url("img/PXL_20220227_155637276.jpg");
     background-size: cover;
     background-position: center;
-    opacity: 0.5; /* Adjust based on how much you want to mute the background */
-    z-index: -1; /* Ensures the image stays behind the content */
+    z-index: -1; 
   }
 
   body {
     position: relative;
-    background-color: rgba(255, 255, 255, 0.5); /* White background with 50% opacity */
+    background-color: rgba(255, 255, 255, 0.5); 
   }
 </style>
 

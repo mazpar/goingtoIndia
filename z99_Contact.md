@@ -2,6 +2,7 @@
 layout: page
 title: Updates & Contact
 permalink: contact.html
+background_image: "img/Template Wedding Invitations.svg"
 ---
 
 -----------

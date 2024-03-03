@@ -21,6 +21,6 @@ plugins:
 header_pages:
   - 'z01_travel Advice.md'
   - 'z01_bengali-wedding.md'
-
+  
 exclude:
   - drafts/

@@ -11,8 +11,7 @@ show_excerpts: true
 markdown: kramdown
 usemathjax: true
 
-# theme: minima
-remote_theme: cnorick/jekyll-theme-easy-wedding
+theme: minima
 
 plugins:
   - jekyll-feed

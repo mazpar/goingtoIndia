@@ -12,7 +12,7 @@ markdown: kramdown
 usemathjax: true
 
 # theme: minima
-theme: jekyll-theme-easy-wedding
+remote_theme: cnorick/jekyll-theme-easy-wedding
 
 plugins:
   - jekyll-feed

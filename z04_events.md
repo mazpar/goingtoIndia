@@ -3,8 +3,8 @@ layout: page
 title: Events Calendar
 permalink : /events.html
 ---
-
-# Events Calendar
+-----------
+&nbsp;
 
 Welcome to our Events Calendar! Here, you'll find recommended dates and events related to our wedding celebration. Please mark your calendars and join us in these memorable moments.
 

@@ -3,46 +3,17 @@ layout: default
 title: Home
 background_image: "img/PXL_20230913_035201957.jpg"
 ---
-<!--
-<style>
-  body {
-    position: relative;
-    min-height: 100vh;
-    margin: 0;
-  }
 
-  body::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: url("img/PXL_20230913_035201957.jpg") no-repeat center center;
-    background-size: cover;
-    z-index: -1; 
-  }
-
-  body::after {
-    content: "";
-    position: absolute;
-    top: 0%;  
-    left: 25%; 
-    width: 50%;  
-    height: 100%; 
-    background-color: rgba(255, 255, 255, 0.6); 
-    z-index: 1;
-  }
-
-  .content {
-    position: relative;
-    z-index: 2;
-    color: #000;
-    padding: 1em;
-  }
-</style>
-
--->
+<div class="home">
+  {% for post in site.posts %}
+    <div class="post-summary">
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    </div>
+  {% endfor %}
+</div>
 
 --------
 &nbsp;

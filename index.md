@@ -6,12 +6,10 @@ background_image: "img/Template Wedding Invitations.svg"
 
 
 &nbsp;
-<img src="img/PXL_20230913_035201957.jpg" align="left" width="200px"/>
+<img src="img/PXL_20230913_035201957.jpg" align="left" width="300px"/>
 Hello dear friends and family,
 
 As the dates November 17th to 19th approach, you can find details and recommendations for your upcoming trip to India. This page is designed to be your go-to resource for all necessary information to ensure a smooth and enjoyable visit.
-
-<br clear="left"/>
 
 &nbsp;
 
@@ -24,6 +22,9 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 ## LATEST UPDATES
 
 **Keep an eye out here for any new updates to the webpage. Don't worry we will send you an email if any major updates were to happen. 😉**
+
+<br clear="left"/>
+
 
 <div class="home">
   {% for post in site.posts %}

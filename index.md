@@ -7,7 +7,7 @@ title: Home
   body {
     position: relative;
     min-height: 100vh;
-    margin: 0; /* Ensures that the body takes full viewport height without default margin */
+    margin: 0;
   }
 
   body::before {
@@ -30,14 +30,14 @@ title: Home
     width: 40%;  
     height: 40%; 
     background-color: rgba(255, 255, 255, 0.6); 
-    z-index: 1; /* Positioned above the background image but below the content */
+    z-index: 1;
   }
 
   .content {
     position: relative;
-    z-index: 2; /* Ensures the content is above the overlay */
+    z-index: 2;
     color: #000;
-    padding: 1em; /* Adds some spacing around the text */
+    padding: 1em;
   }
 </style>
 

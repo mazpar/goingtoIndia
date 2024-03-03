@@ -14,10 +14,6 @@ permalink: /travel_advice.html
 - **Fire**: 101
 
 &nbsp;
---------
-
-&nbsp;
-&nbsp;
 
 ## Important Travel Information
 Some important dates to plan your travel around is mentioned in the [Events Calendar page](https://mazpar.github.io/goingtoIndia/events.html)

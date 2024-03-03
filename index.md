@@ -19,7 +19,7 @@ title: Home
 
  body {
     position: relative;
-    background-color: rgba(255, 255, 255, 1); /* Light background color for overlay */
+    background-color: rgba(255, 255, 255, 1);
   }
 
   h1, p {

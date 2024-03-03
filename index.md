@@ -7,6 +7,8 @@ title: Home
     background-image: url("img/PXL_20230913_035201957.jpg");
     background-size: cover;
     background-position: center;
+    opacity: 0.5;
+    z-index: -1;
   }
 </style>
 --------

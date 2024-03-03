@@ -20,6 +20,7 @@ plugins:
 
 header_pages:
   - z01_travel_advice.md
+  - z02_delhi.md
   - z03_bengali-wedding.md
   - z04_events.md
   - z99_contact.md

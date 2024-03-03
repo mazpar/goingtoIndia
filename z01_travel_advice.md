@@ -80,13 +80,13 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
   - **Malaria Prophylaxis:** India has a risk of malaria in certain areas. While there's no vaccine for malaria, preventive medication may be recommended, along with measures to avoid mosquito bites.
   - **Traveler’s Diarrhea:** While not a vaccine, travelers may consider carrying a course of antibiotics as a precautionary measure against severe traveler’s diarrhea, following a healthcare provider’s prescription.
 
-### Health and Safety : Oter Considerations
+### Health and Safety : Other Considerations
 
 - **Water Safety**: Drink and brush your teeth with only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
 - **Food Safety**: Eat well-cooked meals. Street foods can potentially be comntaminated. A good rule to find tasty and safe street food is to looks for places with many (>10 is a good number) of local residents. You can also try to find guided street food tours but they tend to be expensive by Indian standards. Fruits and vegetables should be washed and peeled.
-- **Bug Repellants**: Bring repellents to protect against insect and musquite bites. Mosquitoes are especially a health risk as Malaria, Dengue and Chikungunya are very prevelant in India. You can avoid these by staying away from places with stagnant water nearby, using mosquito repellants all the time.
+- **Bug Repellants**: Bring repellents to protect against insect and mosquito bites. Mosquitoes are especially a health risk as Malaria, Dengue and Chikungunya are very prevelant in India. You can avoid these by staying away from places with stagnant water nearby, using mosquito repellants all the time, and wearing clothing that covers your arms and legs especially during twilight hours. 
 - **Carry Hand Sanitizer**: Maintain hand hygiene to avoid gastrointestinal upsets.
-- **Medications**: Note that medical facilities may vary greatly in quality, especially outside major cities. So make sure to carry all your essential medications with you. Also carry ORS solution in case you encounter traveler's diarrhea.
+- **Medications**: Note that medical facilities may vary greatly in quality, especially outside major cities. So make sure to carry all your essential medications with you. Also carry ORS solution and imodium in case you encounter traveler's diarrhea.
 
 ### Local Customs and Etiquette
 

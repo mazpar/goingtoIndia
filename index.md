@@ -42,6 +42,6 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 -----------
 &nbsp;
-### [Update us here](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing)
+### [**UPDATE US HERE**](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing)
 about your arrival and departure times in Raipur.
 &nbsp;

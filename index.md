@@ -19,7 +19,7 @@ title: Home
   }
 
  body {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 255, 255, 1) !important;
   }
 </style>
 

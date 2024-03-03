@@ -11,14 +11,14 @@ title: Home
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("img/PXL_20220227_155637276.jpg");
+    background-image: url("img/PXL_20230913_035201957.jpg");
     background-size: cover;
     background-position: center;
+    opacity: 0.4;
     z-index: -1; 
   }
 
  body {
-    position: relative;
     background-color: rgba(255, 255, 255, 1);
   }
 </style>

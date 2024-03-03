@@ -11,7 +11,7 @@ title: Home
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("img/PXL_20230913_035201957.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("img/PXL_20230913_035201957.jpg");
     background-size: cover;
     background-position: center;
     opacity: 0.4;

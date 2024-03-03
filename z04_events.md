@@ -2,6 +2,7 @@
 layout: page
 title: Events Calendar
 permalink : /events.html
+background_image: "img/Template Wedding Invitations.svg"
 ---
 -----------
 &nbsp;

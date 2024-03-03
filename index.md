@@ -6,9 +6,7 @@ background_image: "img/Template Wedding Invitations.svg"
 
 
 &nbsp;
-![imke_parry](img/PXL_20230913_035201957.jpg){: style="float: left; margin-right: 20px; height: 300px;" }
-
-<!-- img src="img/PXL_20230913_035201957.jpg" alt="imke_parry" style="width: auto; height: 600px; margin-right: 20px;" -->
+<img src="img/PXL_20230913_035201957.jpg" alt="imke_parry" style="width: 300px;"/>
   
 Hello dear friends and family,
 

@@ -16,4 +16,4 @@ about your arrival and departure times in Raipur.
 &nbsp;
 
 ## Contact
-For any immediate questions or additional information, please feel free to contact us directly at [Our wedding email address](mailto:imke_parichay@protonmail.com).
+For any immediate questions or additional information, please feel free to contact us directly at [_our wedding email address_](mailto:imke_parichay@protonmail.com).

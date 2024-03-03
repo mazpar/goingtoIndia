@@ -2,6 +2,28 @@
 layout: home
 title: Home
 ---
+
+<style>
+  body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("img/PXL_20230913_035201957.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5; /* Adjust based on how much you want to mute the background */
+    z-index: -1; /* Ensures the image stays behind the content */
+  }
+
+  body {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.5); /* White background with 50% opacity */
+  }
+</style>
+<!--
 <style>
   body {
     background-image: url("img/PXL_20230913_035201957.jpg");
@@ -11,10 +33,11 @@ title: Home
     z-index: -1;
   }
 </style>
+-->
 --------
 &nbsp;
-
 <!--
+
 <img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="350" style="margin-right: 30px"/>
 -->
 Hello dear friends and family,

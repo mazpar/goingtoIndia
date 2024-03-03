@@ -9,7 +9,7 @@ permalink : /events.html
 Welcome to our Events Calendar! Here, you'll find recommended dates and events related to our wedding celebration. Please mark your calendars and join us in these memorable moments.
 
 ## Pre-Wedding Recommendations
-
+***
 ### Arrival in Delhi
 - **Date**: 10-12 Nov
 - **Description**: Ideally you would want to arrive in India at Delhi. The capital city offers plenty of sight-seeing options and great connection to everywhere else in the country.
@@ -29,21 +29,18 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
   
 
 ## Wedding Related Events
-
-
+***
+&nbsp;
+&nbsp;
 
 ** To be announced...**
-
-
+&nbsp;
+&nbsp;
 
 ## Post-Wedding Events
-
+***
 ### Airport Drop-Off
 - **Date**: 20-Nov
 - **Time**: TBD
 - **Description**: We recommend booking flights departing after mid-day to allow enough time to be dropped off. Please update your itinerary after booking tickets to and from Raipur [here](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing)
-
----
-
-For more information on each event, including dress codes and RSVP details, please visit the respective event pages linked above. We can't wait to celebrate with you!
 

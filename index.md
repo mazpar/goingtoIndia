@@ -4,28 +4,12 @@ title: Home
 ---
 
 <style>
-
-  body::after {
-  content: "";
-  position: absolute;
-  top: 5%;  /* Adjust as needed */
-  left: 5%; /* Adjust as needed */
-  width: 40%;  /* Set your desired width */
-  height: 40%; /* Set your desired height */
-  background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
-  z-index: 2; /* Ensure it appears above the background image */
-}
-.content {
-  position: relative; /* Needed to apply z-index */
-  z-index: 3; /* Above the overlay */
-  color: #000; /* Text color */
-  /* Additional styling for text */
-}
-
   body {
     position: relative;
     min-height: 100vh;
- }
+    margin: 0; /* Ensures that the body takes full viewport height without default margin */
+  }
+
   body::before {
     content: "";
     position: absolute;
@@ -33,13 +17,28 @@ title: Home
     left: 0;
     width: 100%;
     height: 100%;
-    background: url("img/PXL_20230913_035201957.jpg");
+    background: url("img/PXL_20230913_035201957.jpg") no-repeat center center;
     background-size: cover;
-    background-position: center;
     z-index: -1; 
   }
 
- 
+  body::after {
+    content: "";
+    position: absolute;
+    top: 5%;  
+    left: 5%; 
+    width: 40%;  
+    height: 40%; 
+    background-color: rgba(255, 255, 255, 0.6); 
+    z-index: 1; /* Positioned above the background image but below the content */
+  }
+
+  .content {
+    position: relative;
+    z-index: 2; /* Ensures the content is above the overlay */
+    color: #000;
+    padding: 1em; /* Adds some spacing around the text */
+  }
 </style>
 
 <!--

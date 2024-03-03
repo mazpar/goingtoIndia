@@ -6,6 +6,6 @@ title: Home
 
 Hello dear friends and family,
 
-As we inch closer to our special days from November 17th to 19th, we are thrilled to share more about your upcoming journey to India, where we'll celebrate our union surrounded by those we cherish. This page will be your primary source for all the details and updates you need for a comfortable and memorable stay.
+As the dates November 17th to 19th approach, you can find details and recommendations for your upcoming trip to India. This page is designed to be your go-to resource for all necessary information to ensure a smooth and enjoyable visit.
 
 

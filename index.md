@@ -22,7 +22,7 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 &nbsp;
 
 
-## POSTS
+## LATEST UPDATES
 
 **Keep an eye out here for any new updates to the webpage. Don't worry we will send you an email if any major updates were to happen. 😉**
 

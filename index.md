@@ -19,7 +19,9 @@ title: Home
   }
 
  body {
+    position: absolute;
     background-color: rgba(255, 255, 255, 1) !important;
+    z-index: 99;
   }
 </style>
 

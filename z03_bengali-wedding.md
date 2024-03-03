@@ -5,7 +5,6 @@ permalink: /bengali_wedding.html
 background_image: "img/Template Wedding Invitations.svg"
 ---
 
------------
 &nbsp;
 
 Bengali weddings are an elaborate blend of culture, joy, and tradition. As a guest, you're about to experience a series of rituals filled with deep meaning and community spirit. Here's what you can expect:

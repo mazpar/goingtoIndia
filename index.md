@@ -8,10 +8,10 @@ title: Home
   body::after {
   content: "";
   position: absolute;
-  top: 50px;  /* Adjust as needed */
-  left: 50px; /* Adjust as needed */
-  width: 300px;  /* Set your desired width */
-  height: 300px; /* Set your desired height */
+  top: 150px;  /* Adjust as needed */
+  left: 600px; /* Adjust as needed */
+  width: 600px;  /* Set your desired width */
+  height: 600px; /* Set your desired height */
   background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
   z-index: 2; /* Ensure it appears above the background image */
 }

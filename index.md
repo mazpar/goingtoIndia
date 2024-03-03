@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Home
+background_image: "img/PXL_20230913_035201957.jpg"
 ---
 <!--
 <style>

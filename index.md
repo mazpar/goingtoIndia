@@ -4,17 +4,6 @@ title: Home
 background_image: "img/PXL_20230913_035201957.jpg"
 ---
 
-<div class="home">
-  {% for post in site.posts %}
-    <div class="post-summary">
-      <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-    </div>
-  {% endfor %}
-</div>
-
 --------
 &nbsp;
 
@@ -28,7 +17,20 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 </div>
 
 -------------------------
+
 &nbsp;
 &nbsp;
+
+<div class="home">
+  {% for post in site.posts %}
+    <div class="post-summary">
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    </div>
+  {% endfor %}
+</div>
+
 &nbsp;
 &nbsp;

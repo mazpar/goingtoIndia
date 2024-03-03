@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="150" style="margin-right: 20px"/>
+<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="300" style="margin-right: 20px"/>
 
 Hello dear friends and family,
 

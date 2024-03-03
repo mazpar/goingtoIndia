@@ -26,7 +26,7 @@ Accommodations have been arranged at the wedding venue itself between 16-11 and 
 - **Essentials**: Remember to bring personal medications, travel adaptors for India (types C, D, and M), and any other essentials for international travel.
 -->
 ### Visa
-Everyone needs to apply for an e-Visa before their travel. [Please go to this webpage to apply for an e-Visa and all other e_Visa related information](https://indianvisaonline.gov.in/evisa/tvoa.html). Applications can be made upto 4 days before arrival. We recommend you apply for your visa about 3-4 weeks prior to allow for enough time in case of complications (which will most likely not be the case).
+Everyone needs to apply for an e-Visa before their travel. [Please go to this webpage to apply for an e-Visa and all other e-Visa related information](https://indianvisaonline.gov.in/evisa/tvoa.html). Applications can be made upto 4 days before arrival. We recommend you apply for your visa about 3-4 weeks prior to allow for enough time in case of complications (which will most likely not be the case).
 
 ### Don’t Forget to Register Your Trip!
 

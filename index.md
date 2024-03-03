@@ -4,7 +4,7 @@ title: Home
 ---
 <style>
   body {
-    background-image: url('/img/PXL_20230913_035201957.jpg');
+    background-image: url('img/PXL_20230913_035201957.jpg');
     background-size: cover;
     background-position: center;
   }

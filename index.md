@@ -8,13 +8,24 @@ title: Home
   body::after {
   content: "";
   position: absolute;
-  top: 150px;  /* Adjust as needed */
-  left: 500px; /* Adjust as needed */
-  width: 900px;  /* Set your desired width */
-  height: 20000px; /* Set your desired height */
+  top: 5%;  /* Adjust as needed */
+  left: 5%; /* Adjust as needed */
+  width: 40%;  /* Set your desired width */
+  height: 40%; /* Set your desired height */
   background-color: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
-  z-index: 0; /* Ensure it appears above the background image */
+  z-index: 2; /* Ensure it appears above the background image */
 }
+.content {
+  position: relative; /* Needed to apply z-index */
+  z-index: 3; /* Above the overlay */
+  color: #000; /* Text color */
+  /* Additional styling for text */
+}
+
+  body {
+    position: relative;
+    min-height: 100vh;
+ }
   body::before {
     content: "";
     position: absolute;
@@ -28,10 +39,7 @@ title: Home
     z-index: -1; 
   }
 
- body {
-    position: relative;
-    min-height: 100vh;
- }
+ 
 </style>
 
 <!--

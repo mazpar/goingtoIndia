@@ -30,13 +30,14 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
 
 ## Wedding Related Events
 ***
-
 &nbsp;
+
 &nbsp;
 
 ** To be announced...**
 
 &nbsp;
+
 &nbsp;
 
 ## Post-Wedding Events

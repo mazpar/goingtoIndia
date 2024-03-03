@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" style="height: 100%;">
 
 {% include head.html %}
 
-<body class="site" style="position: relative; min-height: 100vh; margin: 0;">
+<body class="site" style="display: flex; flex-direction: column; min-height: 100vh; margin: 0;">
   <style>
     body::before {
       content: "";
-      position: fixed;
+      position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%;
-      background: url("{{ page.background_image}}") no-repeat center center/cover;
+      background: url("{{ page.background_image }}") no-repeat center center/cover;
       opacity: 0.3;
       z-index: -1;
     }
 
     .overlay {
-      position: fixed;
+      position: absolute;
       top: 0;
       left: 20%;
       width: 60%;
@@ -27,8 +27,19 @@
       z-index: 0;
     }
 
-    .site-content, .site-footer {
-      position: relative;
+    .site-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      max-width: 55%;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+      z-index: 1;
+    }
+
+    footer.site-footer {
+      margin-top: auto;
+      width: 100%;
       z-index: 1;
     }
   </style>
@@ -39,7 +50,7 @@
     {% include header.html %}
   </header>
 
-  <main class="site-content" role="main" style="max-width: 55%; margin: 0 auto; padding: 2rem 1rem;">
+  <main class="site-content" role="main">
     {{ content }}
   </main>
 

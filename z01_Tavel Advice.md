@@ -2,6 +2,8 @@
 layout: page
 title: Travel Advice
 permalink: /travel_advice.html
+background_image: "img/Template Wedding Invitations.svg"
+
 ---
 
 --------

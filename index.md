@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-
+<!--
 <style>
   body {
     position: relative;
@@ -40,20 +40,6 @@ title: Home
     padding: 1em;
   }
 </style>
-
-<!--
-<style>
-  body {
-    background-image: url("img/PXL_20230913_035201957.jpg");
-    background-size: cover;
-    background-position: center;
-    opacity: 0.5;
-    z-index: -1;
-  }
-</style>
-
-
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="350" style="margin-right: 30px"/>
 
 -->
 

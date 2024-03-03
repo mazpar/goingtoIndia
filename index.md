@@ -5,7 +5,7 @@ title: Home
 --------
 &nbsp;
 
-<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="300" style="margin-right: 40px"/>
+<img src="img/PXL_20230913_035201957.jpg" alt="Imke and Parichay" align="left" width="300" style="margin-right: 45px"/>
 
 Hello dear friends and family,
 

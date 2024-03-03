@@ -21,36 +21,67 @@ Some important dates to plan your travel around is mentioned in the [Events Cale
 ### Accommodation
 Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location. Any accomodation you require outside of these dates have to be arranged by yourself. Feel free to contact us if you want to double check your choice of accomodation.
 
-### What to Pack
+<!-- ### What to Pack
 - **Dress for Celebration**:  Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi-Tips](https://mazpar.github.io/goingtoIndia/delhi.html) page to check out recommendations.
 - **Essentials**: Remember to bring personal medications, travel adaptors for India (types C, D, and M), and any other essentials for international travel.
+-->
+### Visa
+Everyone needs to apply for an e-Visa before their travel. [Please go to this webpage to apply for an e-Visa and all other e_Visa related information](https://indianvisaonline.gov.in/evisa/tvoa.html). Applications can be made upto 4 days before arrival. We recommend you apply for your visa about 3-4 weeks prior to allow for enough time in case of complications (which will most likely not be the case).
+
+### Don’t Forget to Register Your Trip!
+
+Ensure your safety by registering your travel plans with your country's foreign affairs service before heading to India. It’s quick, easy, and comes with key benefits:
+- **Emergency Support:** Get immediate assistance in case of emergencies.
+- **Travel Updates:** Receive essential advisories and safety alerts.
+- **Access to Consular Services:** Improve your connection to consular help when needed.
+
+We have tried to compile a list for some Nationalities. _(Note: This may be incorrect, so verify once this is the correct place to register your trip with your embassy)_.
+- **Netherlands:** [Ministry of Foreign Affairs - Register Your Trip](https://informatieservice.nederlandwereldwijd.nl/)
+- **Germany:** [Auswärtiges Amt - Elefand (Electronic Registration of Germans Abroad)](https://elefand.diplo.de/elefandextern/home/login!form.action)
+- **Spain:** [Ministerio de Asuntos Exteriores - Registro de Viajeros](https://registroviajeros.exteriores.gob.es/)
+- **Italy:** [Dove Siamo Nel Mondo - Registration for Italians Abroad](https://serviziconsolarionline.esteri.it/ScoFE/index.sco)
+- **United States:** [U.S. Department of State - STEP (Smart Traveler Enrollment Program)](https://step.state.gov/step/)
+- **Romania:** [Ministry of Foreign Affairs - E-consulat Registration](https://www.econsulat.ro/InregistrareCetatean)
+- **Cyprus:** [Connect2CY - Overseas Cypriots Registration](https://www.connect2cy.gov.cy/)
+- **United Kingdom:** The UK does not have a specific registration for travelers but British nationals can get country-specific travel advice and information on the [Foreign, Commonwealth & Development Office - Travel Advice](https://www.gov.uk/foreign-travel-advice) page.
+
 
 ### Health and Safety
 
-- **Vaccinations**: Ensure you are up-to-date on routine vaccines. Consult your General Practitioner for advice. Checking the official website or contacting the Indian embassy or consulate in your country can provide you with the most current visa and health-related entry requirements for India.
-- **Water Safety**: Drink only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
-- **Food Safety**: Eat well-cooked meals and avoid street food that doesn't look fresh or has been exposed to flies. Fruits and vegetables should be washed and peeled.
-- **Bug Repellants**: Bring repellents to protect against insect and musquite bites.
-- **Healthcare**: Carry a basic travel health kit and any personal medications. Note that medical facilities may vary greatly in quality, especially outside major cities.
+- **Vaccinations**: Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you.
+  - _Dutch Travellers_: Contact the GGD or vaccination clinic in your municipality. [The GGD’s website](https://www.ggdreisvaccinaties.nl/faq) tells you which vaccinations are required for which country. Get your vaccinations in time. The GGD, vaccination clinic or, in some cases, your family doctor can vaccinate you. [Visit the LCR’s website to find out where you can get travel vaccinations in your municipality](https://www.lcr.nl/Vaccinatie-adressen). This information is in Dutch.
+  - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner to stay updated on your booster vaccines. 
+- **Water Safety**: Drink and brush your teeth with only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
+- **Food Safety**: Eat well-cooked meals. Street foods can potentially be comntaminated. A good rule to find tasty and safe street food is to looks for places with many (>10 is a good number) of local residents. You can also try to find guided street food tours but they tend to be expensive by Indian standards. Fruits and vegetables should be washed and peeled.
+- **Bug Repellants**: Bring repellents to protect against insect and musquite bites. Mosquitoes are especially a health risk as Malaria, Dengue and Chikungunya are very prevelant in India. You can avoid these by staying away from places with stagnant water nearby, using mosquito repellants all the time.
+- **Carry Hand Sanitizer**: Maintain hand hygiene to avoid gastrointestinal upsets.
+- **Medications**: Note that medical facilities may vary greatly in quality, especially outside major cities. So make sure to carry all your essential medications with you. Also carry ORS solution in case you encounter traveler's diarrhea.
 
 ### Local Customs and Etiquette
 
-- **Dress Modestly**: Dress modestly, especially when visiting religious sites. Women should consider covering their legs and shoulders.
-- **Remove Your Shoes**: Before entering someone's home or a place of worship.
+- **Dressing Etiquette**: Big cities, especially wealthier and highly educated crowds are very western in their outlook. But if you are visiting religious sites and events, make sure to wear clothing that covers your shoulders and legs. Also wear clothing that covers your shoulders and legs in smaller towns and rural areas.
+- **Remove Your Shoes**: Always remove your shoes when entering a place of worship or someone's house. If before entering a place you see a lot of shoes outside, it is a good indicator that you should remove your shoes. If there are lockers for shoes please use them.
 - **Greetings**: The traditional Indian greeting is the "Namaste," performed by pressing your palms together near your heart and bowing slightly. However in big cities people are very much accustomed to the western way of living.
+- **Eat with Your Right Hand**: The left hand is considered unclean, so use your right hand for eating and passing items whenever possible.
+- **Accept Hospitality**: It’s polite to accept tea or snacks if offered by a host, even if you only take a small amount.
+- **Mind Your Feet**: Feet are considered impure, so avoid pointing your feet at people or religious icons.
 - **Bargaining**: Bargaining is common in markets but do it respectfully.
-- **Public Displays of Affection**: Be cautious with public displays of affection, as they may not be well-received, especially in rural areas.
+- **Public Displays of Affection**: Public displays of affection such as kissing may not be well-received.
 
 ### Transportation
 
-- **Local Transport**: Flights now connect all major cities and should be the first choice of transport. Trains are usually slow and need bookings well in advance.
+- **Local Transport**: Flights now connect all major cities and should be the first choice of transport. Trains are usually slow and need bookings well in advance. If you really want to experience trains then you should book _AC 1st class (1A)_ or _AC 2-Tier (2A)_ train tickets only. [Use this official website to find trains and book tickets](https://www.irctc.co.in/nget/train-search).
 - **Taxis and Ride-Shares**: Preferably use official taxis or reputable ride-sharing apps like Uber and Ola especially in Delhi.
 - **Driving**: Not recommended for tourists due to the challenging road conditions and traffic rules.
 
 ### Practical Travel Tips
 
-- **Currency**: The Indian Rupee (INR) is the currency of India. Inform your bank of your travel plans to avoid any issues with card transactions.
+- **Currency**: The Indian Rupee (INR) is the currency of India. Inform your bank of your travel outside of EU to avoid any issues with card transactions.
 - **Electrical Plugs**: India uses 230V, 50Hz electricity, and plug types C, D, and M. Bring a universal adapter.
 - **Language**: Hindi is most widely spoken. English is mostly spoken in big cities, in tourist areas amongst the highly educated people.
-- **Cultural Sensitivity**: Be respectful of India's diverse religious and cultural practices. Avoid discussing sensitive topics such as politics and religion.
 - **Safety**: Be vigilant in crowded places and avoid traveling alone at night. Scams targeting tourists can be common, so stay cautious and informed.
+
+***
+&nbsp;
+
+India can be overwhelming with its bustling cities, diverse cultures, and sensory experiences. Allow yourself some adaptation time and embrace the diversity. 

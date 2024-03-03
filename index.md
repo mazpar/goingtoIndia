@@ -19,7 +19,7 @@ title: Home
   }
 
  body {
-    position: absolute;
+    position: relative;
     background-color: rgba(255, 255, 255, 1) !important;
     z-index: 99;
   }

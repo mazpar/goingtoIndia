@@ -19,8 +19,10 @@ plugins:
   - jekyll-paginate
 
 header_pages:
-  - 'z01_travel Advice.md'
-  - 'z01_bengali-wedding.md'
+  - z01_travel_advice.md
+  - z03_bengali-wedding.md
+  - z04_events.md
+  - z99_contact.md
   
 exclude:
   - drafts/

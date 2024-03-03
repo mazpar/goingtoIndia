@@ -31,15 +31,25 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
 
 ## Wedding Related Events
 ***
-&nbsp;
+### Mehendi : Heena Decorations
+- **When**: Evening of 17-Nov
+- **Location**: [Hotel Silver Moon](http://www.hotelsilvermoon.com/)
+- **Description**: An informal gathering where those interested can get some heena designs on their palms and hands.
 
-&nbsp;
+### Gaye Holud
+- **When**: Morning of 18-Nov
+- **Location**: [Hotel Silver Moon](http://www.hotelsilvermoon.com/)
+- **Description**: Everyone gets to apply turmeric paste on the face of bride and groom. Please wear something yellow and cottony. You can shop for some cheap outfits for this occassion in Delhi
 
-** To be announced...**
+### Main Wedding
+- **When**: Evening of 18-Nov
+- **Location**: [Hotel Silver Moon](http://www.hotelsilvermoon.com/)
+- **Description**: This is the main wedding event.
 
-&nbsp;
-
-&nbsp;
+### Big Party: Wedding Reception
+- **When**: Evening of 19-Nov
+- **Location**: [Hotel Silver Moon](http://www.hotelsilvermoon.com/)
+- **Description**: This is the event when all our friends and family attend a big dinner buffet party to congratulate the new couple.
 
 ## Post-Wedding Events
 ***

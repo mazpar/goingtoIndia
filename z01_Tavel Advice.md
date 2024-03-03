@@ -46,11 +46,27 @@ We have tried to compile a list for some Nationalities. _(Note: This may be inco
 - **United Kingdom:** The UK does not have a specific registration for travelers but British nationals can get country-specific travel advice and information on the [Foreign, Commonwealth & Development Office - Travel Advice](https://www.gov.uk/foreign-travel-advice) page.
 
 
-### Health and Safety
+### Health and Safety : Vaccinations
 
-- **Vaccinations**: Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you.
+- Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you.
   - _Dutch Travellers_: Contact the GGD or vaccination clinic in your municipality. [The GGD’s website](https://www.ggdreisvaccinaties.nl/faq) tells you which vaccinations are required for which country. Get your vaccinations in time. The GGD, vaccination clinic or, in some cases, your family doctor can vaccinate you. [Visit the LCR’s website to find out where you can get travel vaccinations in your municipality](https://www.lcr.nl/Vaccinatie-adressen). This information is in Dutch.
-  - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner to stay updated on your booster vaccines. 
+  - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner to stay updated on your booster vaccines.
+
+-  **Travel-Specific Vaccines**
+  - **Hepatitis A:** Recommended due to the potential for contaminated food and water.
+  - **Typhoid:** Especially important because of the prevalent risk associated with contaminated food and water in India.
+  - **Hepatitis B:** Recommended for those who might be exposed to blood or body fluids, have sexual encounters with new partners, or get medical or dental procedures.
+  - **Japanese Encephalitis:** Consider this vaccine if you plan to spend a lot of time outdoors or in rural areas, or if you're going to visit India during the monsoon season.
+  - **Rabies:** Recommended for travelers involved in outdoor and other activities that might bring them into direct contact with dogs, bats, and other mammals. This is particularly important if you'll be staying for a long time or will be in remote areas.
+  - **Yellow Fever:** Not a risk in India, but the government requires proof of yellow fever vaccination if you are arriving from a country with a risk of yellow fever virus transmission.
+  - **COVID-19:** Staying up-to-date with COVID-19 vaccinations is advisable, considering the global presence of the virus. Check the latest travel advisories and entry requirements related to COVID-19 before your trip.
+&nbsp;
+
+- **Other Vacine Considerations**
+  - **Malaria Prophylaxis:** India has a risk of malaria in certain areas. While there's no vaccine for malaria, preventive medication may be recommended, along with measures to avoid mosquito bites.
+  - **Traveler’s Diarrhea:** While not a vaccine, travelers may consider carrying a course of antibiotics as a precautionary measure against severe traveler’s diarrhea, following a healthcare provider’s prescription.
+&nbsp;
+
 - **Water Safety**: Drink and brush your teeth with only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
 - **Food Safety**: Eat well-cooked meals. Street foods can potentially be comntaminated. A good rule to find tasty and safe street food is to looks for places with many (>10 is a good number) of local residents. You can also try to find guided street food tours but they tend to be expensive by Indian standards. Fruits and vegetables should be washed and peeled.
 - **Bug Repellants**: Bring repellents to protect against insect and musquite bites. Mosquitoes are especially a health risk as Malaria, Dengue and Chikungunya are very prevelant in India. You can avoid these by staying away from places with stagnant water nearby, using mosquito repellants all the time.

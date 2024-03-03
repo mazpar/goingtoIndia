@@ -2,6 +2,7 @@
 layout: page
 title: Bengali Wedding Guide
 permalink: /bengali_wedding.html
+background_image: "img/PXL_20230913_035201957.jpg"
 ---
 
 -----------

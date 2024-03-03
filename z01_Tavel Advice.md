@@ -6,7 +6,6 @@ background_image: "img/Template Wedding Invitations.svg"
 
 ---
 
---------
 &nbsp;
 
 

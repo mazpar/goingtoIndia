@@ -4,16 +4,16 @@ title: Travel Advice
 permalink: /travel_advice.html
 ---
 
-# Emergency Numbers
+## Emergency Numbers
 
 - **Police**: 100
 - **Ambulance**: 102
 - **Fire**: 101
 
-# Important Travel Information
+### Important Travel Information
 Some important dates to plan your travel around is mentioned in the [Events Calendar page](https://mazpar.github.io/goingtoIndia/events.html)
 
-## Pre-Arranged Accommodation
+### Pre-Arranged Accommodation
 Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location.
 
 ### What to Pack

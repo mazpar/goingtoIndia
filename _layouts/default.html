@@ -45,19 +45,41 @@
       padding: 0;
     }
 
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    .site-content, .site-header, .site-footer{
-      max-width: 90%;
-      padding: 1rem;
-    }
-
-    .overlay {
-      left: 10%;
-      width: 80%;
-    }
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .site-content, .site-header, .site-footer {
+    max-width: 90%;
+    padding: 1rem;
   }
-  </style>
+
+  .site-header {
+    position: relative; /* Ensure z-index is effective */
+    z-index: 2; /* Higher than .site-content and .overlay */
+    font-size: 0.8rem; /* Smaller font size for mobile headers */
+  }
+
+  .site-header h1 {
+    font-size: 1.5rem; /* Adjust the main heading size if needed */
+  }
+
+  .site-footer {
+    font-size: 0.8rem; /* Smaller font size for mobile footers */
+  }
+
+  .site-content {
+    position: relative; /* Ensure z-index is effective */
+    z-index: 1; /* Ensures content is above the background but below the header */
+    padding: 1rem; /* Adjust content padding for mobile */
+  }
+
+  .overlay {
+    left: 10%;
+    width: 80%;
+    position: relative; /* Ensure z-index is effective */
+    z-index: 1; /* Same level as .site-content, but below .site-header */
+  }
+}
+</style>
 
   <div class="overlay"></div>
   

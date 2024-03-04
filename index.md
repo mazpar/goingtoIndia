@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 background_image: "img/Template Wedding Invitations.svg"
 ---

@@ -3,8 +3,9 @@ layout: home
 title: Home
 background_image: "img/Template Wedding Invitations.svg"
 ---
-<div style="float: left; margin-right: 20px;">
-  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="width: 400px;"/>
+
+<div style="float: left; margin-right: 20px; width: 400px; height: 400px; overflow: hidden;">
+  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="width: 100%; height: 100%; object-fit: cover; object-position: top;"/>
 </div>
 
 Hello dear friends and family,

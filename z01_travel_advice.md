@@ -32,6 +32,8 @@ We want to assure you that we would never extend an invitation to our loved ones
 ### Important Travel Information
 Some important dates to plan your travel around is mentioned in the [Events Calendar page](https://mazpar.github.io/goingtoIndia/events.html)
 
+&nbsp;
+
 ### Accommodation
 Accommodations have been arranged at the wedding venue itself between 16-11 and 20-11-2024. All wedding related events will also take place at the same location. Any accomodation you require outside of these dates have to be arranged by yourself. Feel free to contact us if you want to double check your choice of accomodation.
 
@@ -39,8 +41,12 @@ Accommodations have been arranged at the wedding venue itself between 16-11 and 
 - **Dress for Celebration**:  Comfortable yet festive attire will ensure you enjoy each moment to its fullest. If you want to shop outfits for the wedding, go to [Delhi-Tips](https://mazpar.github.io/goingtoIndia/delhi.html) page to check out recommendations.
 - **Essentials**: Remember to bring personal medications, travel adaptors for India (types C, D, and M), and any other essentials for international travel.
 -->
+&nbsp;
+
 ### Visa
 Everyone needs to apply for an e-Visa before their travel. [Please go to this webpage to apply for an e-Visa and all other e-Visa related information](https://indianvisaonline.gov.in/evisa/tvoa.html). Applications can be made upto 4 days before arrival. We recommend you apply for your visa about 3-4 weeks prior to allow for enough time in case of complications (which will most likely not be the case).
+
+&nbsp;
 
 ### Don’t Forget to Register Your Trip!
 
@@ -59,6 +65,7 @@ We have tried to compile a list for some Nationalities. _(Note: This may be inco
 - **Cyprus:** [Connect2CY - Overseas Cypriots Registration](https://www.connect2cy.gov.cy/)
 - **United Kingdom:** The UK does not have a specific registration for travelers but British nationals can get country-specific travel advice and information on the [Foreign, Commonwealth & Development Office - Travel Advice](https://www.gov.uk/foreign-travel-advice) page.
 
+&nbsp;
 
 ### Health and Safety : Vaccinations
 
@@ -80,6 +87,8 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
   - **Malaria Prophylaxis:** India has a risk of malaria in certain areas. While there's no vaccine for malaria, preventive medication may be recommended, along with measures to avoid mosquito bites.
   - **Traveler’s Diarrhea:** While not a vaccine, travelers may consider carrying a course of antibiotics as a precautionary measure against severe traveler’s diarrhea, following a healthcare provider’s prescription.
 
+&nbsp;
+
 ### Health and Safety : Other Considerations
 
 - **Water Safety**: Drink and brush your teeth with only bottled or purified water. Avoid ice cubes and tap water due to the risk of waterborne diseases.
@@ -87,6 +96,8 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
 - **Bug Repellants**: Bring repellents to protect against insect and mosquito bites. Mosquitoes are especially a health risk as Malaria, Dengue and Chikungunya are very prevelant in India. You can avoid these by staying away from places with stagnant water nearby, using mosquito repellants all the time, and wearing clothing that covers your arms and legs especially during twilight hours. 
 - **Carry Hand Sanitizer**: Maintain hand hygiene to avoid gastrointestinal upsets.
 - **Medications**: Note that medical facilities may vary greatly in quality, especially outside major cities. So make sure to carry all your essential medications with you. Also carry ORS solution and imodium in case you encounter traveler's diarrhea.
+
+&nbsp;
 
 ### Local Customs and Etiquette
 
@@ -99,11 +110,15 @@ Ensure you are up-to-date on routine vaccines. Carry your vaccination certificat
 - **Bargaining**: Bargaining is common in markets but do it respectfully.
 - **Public Displays of Affection**: Public displays of affection such as kissing may not be well-received.
 
+&nbsp;
+
 ### Transportation
 
 - **Local Transport**: Flights now connect all major cities and should be the first choice of transport. Trains are usually slow and need bookings well in advance. If you really want to experience trains then you should book _AC 1st class (1A)_ or _AC 2-Tier (2A)_ train tickets only. [Use this official website to find trains and book tickets](https://www.irctc.co.in/nget/train-search).
 - **Taxis and Ride-Shares**: Preferably use official taxis or reputable ride-sharing apps like Uber and Ola especially in Delhi.
 - **Driving**: Not recommended for tourists due to the challenging road conditions and traffic rules.
+
+&nbsp;
 
 ### Practical Travel Tips
 

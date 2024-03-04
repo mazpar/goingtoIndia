@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Welcome to Our Wedding Website
 background_image: "img/Template Wedding Invitations.svg"
 showfooter: false
 ---

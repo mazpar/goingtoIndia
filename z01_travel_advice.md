@@ -25,7 +25,6 @@ It's crucial to note that [the specific destination and the route to the wedding
 We want to assure you that we would never extend an invitation to our loved ones without ensuring their safety first. The well-being of our guests is paramount, and every measure has been taken to guarantee a secure and enjoyable visit. We are fully committed to hosting you in a safe environment and wouldn’t consider it otherwise.
 
 ***
-&nbsp;
 
 &nbsp;
 

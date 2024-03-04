@@ -4,7 +4,7 @@ title: Home
 background_image: "img/Template Wedding Invitations.svg"
 ---
 <div style="float: left; margin-right: 20px;">
-  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="width: 450px;"/>
+  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="width: 400px;"/>
 </div>
 
 Hello dear friends and family,

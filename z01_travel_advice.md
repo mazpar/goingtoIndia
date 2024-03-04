@@ -17,12 +17,14 @@ background_image: "img/Template Wedding Invitations.svg"
 
 &nbsp;
 
-### ⚠️ SAFETY RELATED INFORMATION ⚠️
-We understand that some travelers might have concerns about their journey to the wedding destination via Raipur in Chhattisgarh, India. [While Dutch and several other European embassies have categorized the entire state as a moderate risk zone](https://www.nederlandwereldwijd.nl/reisadvies/india), it’s essential to recognize that such advisories try to stay on the side of caution.
+***
+**⚠️ SAFETY RELATED INFORMATION ⚠️**
 
-It's crucial to note that [the specific destination and the route to the wedding venue are situated outside the risk zones identified by the embassies](https://www.google.com/maps/dir/Hotel+Silver+Moon,+Katapali,+A+Katapali,+Odisha,+India/Swami+Vivekananda+Airport,+Raipur,+Atal+Nagar-Nava+Raipur,+Chhattisgarh,+India/@19.7637481,84.3297896,5.54z/data=!4m14!4m13!1m5!1m1!1s0x3a213e7bffffffff:0xd7d5db3fa2811510!2m2!1d83.8999705!2d21.4470801!1m5!1m1!1s0x3a28c38faab9e2bb:0xab7fb2d06ebff7ca!2m2!1d81.7403737!2d21.1860424!3e0?entry=ttu). The South Asian Terrorism Portal (SATP), known for its detailed and accurate conflict mapping, [confirms that these areas are currently considered no / extremely low risk](https://www.satp.org/conflict-maps/india-maoistinsurgency).
+_We understand that some travelers might have concerns about their journey to the wedding destination via Raipur in Chhattisgarh, India. [While Dutch and several other European embassies have categorized the entire state as a moderate risk zone](https://www.nederlandwereldwijd.nl/reisadvies/india), it’s essential to recognize that such advisories try to stay on the side of caution._
 
-We want to assure you that we would never extend an invitation to our loved ones without ensuring their safety first. The well-being of our guests is paramount, and every measure has been taken to guarantee a secure and enjoyable visit. We are fully committed to hosting you in a safe environment and wouldn’t consider it otherwise.
+_It's crucial to note that [the specific destination and the route to the wedding venue are situated outside the risk zones identified by the embassies](https://www.google.com/maps/dir/Hotel+Silver+Moon,+Katapali,+A+Katapali,+Odisha,+India/Swami+Vivekananda+Airport,+Raipur,+Atal+Nagar-Nava+Raipur,+Chhattisgarh,+India/@19.7637481,84.3297896,5.54z/data=!4m14!4m13!1m5!1m1!1s0x3a213e7bffffffff:0xd7d5db3fa2811510!2m2!1d83.8999705!2d21.4470801!1m5!1m1!1s0x3a28c38faab9e2bb:0xab7fb2d06ebff7ca!2m2!1d81.7403737!2d21.1860424!3e0?entry=ttu). The South Asian Terrorism Portal (SATP), known for its detailed and accurate conflict mapping, [confirms that these areas are currently considered no / extremely low risk](https://www.satp.org/conflict-maps/india-maoistinsurgency)._
+
+_We want to assure you that we would never extend an invitation to our loved ones without ensuring their safety first. The well-being of our guests is paramount, and every measure has been taken to guarantee a secure and enjoyable visit. We are fully committed to hosting you in a safe environment and wouldn’t consider it otherwise._
 
 ***
 

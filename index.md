@@ -9,7 +9,7 @@ background_image: "img/Template Wedding Invitations.svg"
 
 Hello dear friends and family,
 
-As the dates November 17th to 19th approach, you can find details and recommendations for your upcoming trip to India. This page is designed to be your go-to resource for all necessary information to ensure a smooth and enjoyable visit.
+You have been invited to our Indian wedding on November 17th to 19th. On this website you can find more details and recommendations. This page is designed to be your go-to resource for all necessary information to ensure a smooth and enjoyable visit.
 
 &nbsp;
 

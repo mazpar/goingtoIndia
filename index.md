@@ -14,6 +14,7 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 &nbsp;
 
 -------------------------
+&nbsp;
 
 ## LATEST UPDATES
 
@@ -37,14 +38,12 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 &nbsp;
 
-&nbsp;
 
-
-### [💟 **RSVP to the Wedding HERE**](https://q630ndkzsds.typeform.com/to/XKYVjFL7)
+### [💟 **RSVP to the Wedding**](https://q630ndkzsds.typeform.com/to/XKYVjFL7)
 
 &nbsp;
 
-### [➡️**UPDATE US HERE**⬅️](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing) about your arrival and departure times at Raipur Airport.
+### [➡️**UPDATE US**⬅️](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing) about your arrival and departure times at Raipur Airport.
 &nbsp;
 
 

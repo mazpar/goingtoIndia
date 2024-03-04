@@ -72,7 +72,7 @@ We have tried to compile a list for some Nationalities. _(Note: This may be inco
 
 Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you.
   - _Dutch Travellers_: Contact the GGD or vaccination clinic in your municipality. [The GGD’s website](https://www.ggdreisvaccinaties.nl/faq) tells you which vaccinations are required for which country. Get your vaccinations in time. The GGD, vaccination clinic or, in some cases, your family doctor can vaccinate you. [Visit the LCR’s website to find out where you can get travel vaccinations in your municipality](https://www.lcr.nl/Vaccinatie-adressen). This information is in Dutch.
-  - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner to stay updated on your booster vaccines.
+  - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner.
 
 - **Travel-Specific Vaccines**
   - **Hepatitis A:** Recommended due to the potential for contaminated food and water.

@@ -5,12 +5,11 @@ permalink : /events.html
 background_image: "img/Template Wedding Invitations.svg"
 ---
 
-
-&nbsp;
+## Events Calendar
 
 Welcome to our Events Calendar! Here, you'll find recommended dates and events related to our wedding celebration. Please mark your calendars and join us in these memorable moments.
 
-## Pre-Wedding Recommendations
+### Pre-Wedding Recommendations
 ***
 ### Arrival in Delhi
 - **Date**: 12 Nov
@@ -30,7 +29,7 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
 - **Description**: We will arrange pick up from this airport. Please notify us once you have booked your tickets to and from Raipur using [this Link](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing).
   
 
-## Wedding Related Events
+### Wedding Related Events
 ***
 ### Mehendi : Heena Decorations
 - **When**: Evening of 17-Nov
@@ -52,7 +51,7 @@ Welcome to our Events Calendar! Here, you'll find recommended dates and events r
 - **Location**: [Hotel Silver Moon](http://www.hotelsilvermoon.com/)
 - **Description**: This is the event when all our friends and family attend a big dinner buffet party to congratulate the new couple.
 
-## Post-Wedding Events
+### Post-Wedding Events
 ***
 ### Airport Drop-Off
 - **Date**: 20-Nov

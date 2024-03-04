@@ -2,6 +2,7 @@
 layout: home
 title: Home
 background_image: "img/Template Wedding Invitations.svg"
+showfooter: false
 ---
 
 <div style="float: left; margin-right: 20px; max-width: 100%; height: 400px; overflow: hidden;">

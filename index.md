@@ -4,8 +4,6 @@ title: Home
 background_image: "img/Template Wedding Invitations.svg"
 ---
 
-
-&nbsp;
 <img src="img/PXL_20230913_035201957.jpg" align="right" width="300px">
 
 Hello dear friends and family,

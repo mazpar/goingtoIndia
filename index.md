@@ -4,7 +4,7 @@ title: Home
 background_image: "img/Template Wedding Invitations.svg"
 ---
 
-<div style="float: left; margin-right: 20px; max-width: 100%; height: auto; overflow: hidden;">
+<div style="float: left; margin-right: 20px; max-width: 100%; height: 400px; overflow: hidden;">
   <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="max-width: 100%; height: auto; object-fit: cover; object-position: bottom;"/>
 </div>
 

@@ -70,23 +70,9 @@ We have tried to compile a list for some Nationalities. _(Note: This may be inco
 
 ### Health and Safety : Vaccinations
 
-Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you.
-  - _Dutch Travellers_: Contact the GGD or vaccination clinic in your municipality. [The GGD’s website](https://www.ggdreisvaccinaties.nl/faq) tells you which vaccinations are required for which country. Get your vaccinations in time. The GGD, vaccination clinic or, in some cases, your family doctor can vaccinate you. [Visit the LCR’s website to find out where you can get travel vaccinations in your municipality](https://www.lcr.nl/Vaccinatie-adressen). This information is in Dutch.
+Ensure you are up-to-date on routine vaccines. Carry your vaccination certificate with you. You may require vaccinations additional to your national vaccination program, in particular if this is your first trip to a tropical country. 
+  - _Dutch Travellers_: Contact the GGD or a travel vaccination clinic. [The GGD’s website](https://www.ggdreisvaccinaties.nl/faq) tells you which vaccinations are required for which country. Get your vaccinations in time. The GGD, vaccination clinic or, in some cases, your family doctor can vaccinate you. [Visit the LCR’s website to find out where you can get travel vaccinations in your municipality](https://www.lcr.nl/Vaccinatie-adressen). This information is in Dutch.
   - _Non Dutch Travellers_: Please consult the relavant medical authorities or your general practitioner.
-
-- **Travel-Specific Vaccines**
-  - **Hepatitis A:** Recommended due to the potential for contaminated food and water.
-  - **Typhoid:** Especially important because of the prevalent risk associated with contaminated food and water in India.
-  - **Hepatitis B:** Recommended for those who might be exposed to blood or body fluids, have sexual encounters with new partners, or get medical or dental procedures.
-  - **Japanese Encephalitis:** Consider this vaccine if you plan to spend a lot of time outdoors or in rural areas, or if you're going to visit India during the monsoon season.
-  - **Rabies:** Recommended for travelers involved in outdoor and other activities that might bring them into direct contact with dogs, bats, and other mammals. This is particularly important if you'll be staying for a long time or will be in remote areas.
-  - **Yellow Fever:** Not a risk in India, but the government requires proof of yellow fever vaccination if you are arriving from a country with a risk of yellow fever virus transmission.
-  - **COVID-19:** Staying up-to-date with COVID-19 vaccinations is advisable, considering the global presence of the virus. Check the latest travel advisories and entry requirements related to COVID-19 before your trip.
-&nbsp;
-
-- **Other Vacine Considerations**
-  - **Malaria Prophylaxis:** India has a risk of malaria in certain areas. While there's no vaccine for malaria, preventive medication may be recommended, along with measures to avoid mosquito bites.
-  - **Traveler’s Diarrhea:** While not a vaccine, travelers may consider carrying a course of antibiotics as a precautionary measure against severe traveler’s diarrhea, following a healthcare provider’s prescription.
 
 &nbsp;
 

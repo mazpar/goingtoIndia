@@ -43,6 +43,8 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 &nbsp;
 
+<div style="clear: both;"></div>
+
 ### [💟 **RSVP to the Wedding HERE**](https://q630ndkzsds.typeform.com/to/XKYVjFL7)
 
 &nbsp;

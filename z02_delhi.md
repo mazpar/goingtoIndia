@@ -10,14 +10,20 @@ background_image: "img/Template Wedding Invitations.svg"
 
 As the first stop on your journey to our wedding celebration, Delhi, the capital city of India, offers a vibrant tapestry of culture, history, and modernity. This page is designed to give you a brief overview and helpful tips for navigating and enjoying your time in Delhi.
 
+&nbsp;
+
 ### Arrival Tips
 
 ### Airport Information
 You'll be landing at Indira Gandhi International Airport (DEL), one of the largest and busiest airports in India. Upon arrival, you'll find various options for reaching the city center, including taxis, app-based ride services, and the Delhi Metro.
 
+&nbsp;
+
 ### Transportation
 - **Metro**: The Delhi Metro is a convenient, efficient way to travel around the city. It connects the airport, New Delhi, and many major tourist spots.
 - **Taxis and Ride-Shares**: Prepaid taxis and ride-sharing apps like Uber and Ola are safe and commonly used methods for getting around.
+
+&nbsp;
 
 ### What to Do in Delhi
 

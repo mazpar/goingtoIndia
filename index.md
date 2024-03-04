@@ -5,7 +5,7 @@ background_image: "img/Template Wedding Invitations.svg"
 ---
 
 <div style="float: left; margin-right: 20px; max-width: 100%; height: 400px; overflow: hidden;">
-  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="max-width: 100%; height: 400px; object-fit: cover; object-position: bottom;"/>
+  <img src="img/PXL_20230913_035201957.jpg" alt="alt text" style="max-width: 100%; width: 300px; height: 400px; object-fit: cover; object-position: bottom;"/>
 </div>
 
 Hello dear friends and family,

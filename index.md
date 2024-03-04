@@ -24,8 +24,6 @@ As the dates November 17th to 19th approach, you can find details and recommenda
 
 **Keep an eye out here for any new updates to the webpage. Don't worry we will send you an email if any major updates were to happen. 😉**
 
-<br clear="left"/>
-
 
 <div class="home">
   {% for post in site.posts %}

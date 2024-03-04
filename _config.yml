@@ -19,7 +19,6 @@ plugins:
   - jekyll-paginate
 
 header_pages:
-  - index.md
   - z01_travel_advice.md
   - z02_delhi.md
   - z03_bengali-wedding.md

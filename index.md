@@ -45,7 +45,7 @@ _Keep an eye out here for any new updates to the webpage. Don't worry we will se
 
 &nbsp;
 
-### [✈️ **UPDATE US**](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing) about your arrival and departure times at Raipur Airport.
+### [✈️ **UPDATE US**](https://docs.google.com/spreadsheets/d/1uoJwtjdYVlyrbGXZIIUucFmMEcMzb0VKvY8Ge0-6Bjo/edit?usp=sharing) about your arrival and departure times at Raipur Airport.
 &nbsp;
 
 

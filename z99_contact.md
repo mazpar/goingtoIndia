@@ -8,7 +8,7 @@ background_image: "img/Template Wedding Invitations.svg"
 ## Contact Us
 
 &nbsp;
-### [UPDATE US HERE](https://docs.google.com/spreadsheets/d/1h9mWyQekZXURMZcXfFyGt-4aI2gpKfjHPcxJUZ4CoBY/edit?usp=sharing)
+### [UPDATE US HERE](https://docs.google.com/spreadsheets/d/1uoJwtjdYVlyrbGXZIIUucFmMEcMzb0VKvY8Ge0-6Bjo/edit?usp=sharing)
 about your arrival and departure times in Raipur.
 &nbsp;
 
